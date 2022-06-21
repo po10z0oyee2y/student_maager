@@ -1,2 +1,2 @@
-# student_maager
+# student_manager
 A test demo
